@@ -1,0 +1,4 @@
+tensorflow-hub
+flask
+blinker==1.4.0
+pandas
